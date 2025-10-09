@@ -1,0 +1,9 @@
+{
+    "Dashboard": true,
+    "Setting": true,
+    "Document": true,
+    "Profile": true,
+    "Notes": true,
+    "Employee": true,
+    "Employees": true
+}

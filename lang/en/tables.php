@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'th.no' => 'ល.រ',
+    'th.modules' => 'Module',
+    'th.pages' => 'Pages',
+    'th.routes' => 'Routes',
+    'th.icon' => 'រូបតំណាង',
+    'th.order' => 'លំដាប់',
+    'th.action' => 'សកម្មភាព',
+    'showing.page' => 'បង្ហាញទំព័រ',
+    'th.status' => 'ស្ថានភាព',
+    'th.createdAt' => 'ថ្ងៃខែឆ្នាំ',
+    'th.name' => 'ឈ្មោះ',
+    'th.username' => 'អ្នកប្រើប្រាស់',
+    'th.roles' => 'តួនាទី',
+    'th.category' => 'ប្រភេទ',
+    'th.description' => 'បរិយាយ',
+    'th.category.sub' => 'អនុប្រភេទ',
+    'th.year' => 'ឆ្នាំ',
+    'th.document.title' => 'ចំណងជើង ឯកសារ',
+    'th.document.total' => 'ចំនួនឯកសារ',
+    'th.notes' => 'កំណត់ចំណាំ',
+    'th.key' => 'Key',
+];
